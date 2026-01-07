@@ -1,2 +1,15 @@
-# Personal-spotify-data-analytics
-A data analytics project consisted of my own personal Spotify premium data. This analysis uses libraries such as Pandas and Numpys in the Python environment, to properly look at and access the data downloaded directly from Spotify
+## Project Pipeline
+
+Spotify Account  
+↓  
+Spotify Personal Data Export (.json)  
+↓  
+JSON File Integration (Python + glob)  
+↓  
+Combined pandas DataFrame  
+↓  
+Data Cleaning & Filtering  
+↓  
+Exploratory Data Analysis  
+↓  
+Visualization Generation (matplotlib & seaborn)  
